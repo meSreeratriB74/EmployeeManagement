@@ -1,7 +1,7 @@
 
 # Employee Management Portal
 
-An Employee Management Portal designed to manage employee information efficiently.
+An Employee Management Portal designed using GraphQL architecture to manage employee information efficiently.
 
 ## Features
 - Employee Registration
